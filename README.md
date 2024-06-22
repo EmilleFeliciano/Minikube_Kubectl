@@ -1,1 +1,1 @@
-#IT - TALENT > Instalação do Minikube e do Kubectl
+#IT - TALENT
