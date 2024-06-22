@@ -1,1 +1,1 @@
-#IT - TALENT
+#IT-TALENT
